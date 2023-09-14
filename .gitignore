@@ -32,3 +32,10 @@ test_pr*.py
 demo_for_*.py
 examples/**/zou*
 examples/inputs/videos
+
+.Add
+shape_predictor_68_face_landmarks.dat
+data.pkl
+quads.pkl
+test/original/*
+crop_samples/img/*
